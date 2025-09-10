@@ -1,6 +1,6 @@
-# AetherMind: A Mental Health Companion App
+# Safehaven: A Mental Health Companion App
 
-AetherMind is a cross-platform mobile application designed to support individuals in managing their mental health. This app integrates various therapeutic approaches into a unified platform, featuring mood tracking, journaling, and an innovative Large Language Model (LLM) chat system. AetherMind aims to empower users to monitor their emotional well-being while providing emotional support and practical advice.
+Safehavenis a cross-platform mobile application designed to support individuals in managing their mental health. This app integrates various therapeutic approaches into a unified platform, featuring mood tracking, journaling, and an innovative Large Language Model (LLM) chat system. AetherMind aims to empower users to monitor their emotional well-being while providing emotional support and practical advice.
 
 ## Features
 
